@@ -1,0 +1,1 @@
+Application.js is a lightweight, library-independent script that I wrote as a groundwork for writing loosely coupled JavaScript Applications. The concept behind this script is that it allows you to “announce” events, so you don’t have to fire functions directly.
